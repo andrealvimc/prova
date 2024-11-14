@@ -1,0 +1,7 @@
+Nome da Startup: SmartEnergy
+
+Descrição: A SmartEnergy é uma startup dedicada a fornecer soluções inovadoras para o monitoramento e análise em tempo real do consumo de energia. Nosso sistema permite que as empresas identifiquem padrões de consumo, detectem anomalias e tomem decisões estratégicas para reduzir custos e promover a sustentabilidade.
+
+Integrantes:
+Marcelo Lopez Rodriguez Filho RM: 94592
+André Pereira Alvim Correa RM: 93120
